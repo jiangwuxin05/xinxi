@@ -1,51 +1,43 @@
++热点新闻
+
 +AI
 +免费软件
 +手机
-DeepSeek
-梁文锋
 
-华为
++华为
++小米
 鸿蒙
 HarmonyOS
-任正非
 
-比亚迪
++汽车
+比亚迪汽车
 +驱逐舰05
 +懂车帝
 +汽车之家
 +活动
-
+特斯拉
 
 大疆
 DJI
-
 宇树
-王兴兴
 
 京东
 淘宝
 +购物活动
 +88vip
 +京东plus会员
-刘强东
 
 字节
 bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
+
+DeepSeek
 
 谷歌
 google
-gemini
++gemini
 deepmind
 
 chatgpt
@@ -55,21 +47,7 @@ sora
 claude
 Anthropic
 
-ai
 !gai
 人工智能
-
 自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
 科技
-
-新质生产力
